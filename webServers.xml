@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47d14344-50a2-4844-896b-452ef83379a8" name="Lila" url="http://140.113.131.82:8000">
+        <fileTransfer host="140.113.131.82" port="22" rootFolder="/home/marco/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

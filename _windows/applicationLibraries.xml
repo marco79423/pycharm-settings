@@ -1,0 +1,44 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery-1.11.3" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.3." />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/__code.jquery.com_jquery-1.11.3.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/__code.jquery.com_jquery-1.11.3.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="platform" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/__apis.google.com_js_platform.js" />
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_apis.google.com_js_platform.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/__apis.google.com_js_platform.js" />
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_apis.google.com_js_platform.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="plusone" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/__apis.google.com_js_plusone.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/__apis.google.com_js_plusone.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
