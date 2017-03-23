@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'mysite'" />
-    <option name="defaultScopeName" value="Project 'mysite'" />
-    <option name="SEARCH_SCOPE" value="Project 'mysite'" />
+    <option name="customScope" value="File '[bi-backend] - ...\bi_backend\report\tasks.py'" />
+    <option name="defaultScopeName" value="File '[bi-backend] - ...\bi_backend\report\tasks.py'" />
+    <option name="SEARCH_SCOPE" value="File '[bi-backend] - ...\bi_backend\report\tasks.py'" />
   </component>
 </application>
