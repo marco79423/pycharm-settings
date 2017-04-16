@@ -33,6 +33,19 @@
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="e84aad08-b78b-4060-84de-c9eab5537e9c" name="db driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:{file::identifier.sqlite}?" />
+      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+      </library>
+    </driver>
     <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
@@ -45,6 +58,7 @@
       <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <property name="enable_load_extension" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
       </library>
