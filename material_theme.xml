@@ -1,10 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isMaterialDesign" value="false" />
     <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60" />
-    <option name="useMaterialIcons" value="false" />
     <option name="useProjectViewDecorators" value="false" />
-    <option name="statusBarTheme" value="false" />
-    <option name="isMaterialTheme" value="false" />
   </component>
 </application>
