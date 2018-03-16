@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="ini" type="Ini" />
       <mapping pattern="template" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="script" type="PLAIN_TEXT" />
@@ -10,6 +11,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
