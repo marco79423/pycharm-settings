@@ -13,6 +13,7 @@
       <mapping ext="pyu" type="PLAIN_TEXT" />
       <mapping ext="frontend" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
