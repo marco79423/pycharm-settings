@@ -4,20 +4,14 @@
     <extensionMap>
       <mapping pattern="template" type="Jinja2" />
       <mapping ext="j2" type="Jinja2" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern="script" type="PLAIN_TEXT" />
-      <mapping pattern="gggg" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping pattern="aaaa" type="PLAIN_TEXT" />
-      <mapping ext="pyu" type="PLAIN_TEXT" />
-      <mapping ext="celery" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="frontend" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="stage" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="pyu" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
+      <mapping ext="celery" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
