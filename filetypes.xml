@@ -7,9 +7,9 @@
       <mapping ext="stage" type="PLAIN_TEXT" />
       <mapping ext="pyu" type="PLAIN_TEXT" />
       <mapping ext="ics" type="PLAIN_TEXT" />
+      <mapping ext="celery" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="celery" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
